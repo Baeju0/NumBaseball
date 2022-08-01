@@ -90,4 +90,4 @@ def bi(answ, num) :
 # # if st == 3 :
 # #     print('ㅊㅊ')
 
-# git정정
+# git
